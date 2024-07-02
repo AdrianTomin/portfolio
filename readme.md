@@ -26,12 +26,12 @@ Welcome to my portfolio! 🎨✨ This project showcases the various projects I'v
 - **Interactive Portals**: Displays portals for my projects, contact information, and about me sections, providing easy navigation and access to information.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/AdrianTomin/portfolio/blob/main/static/portfolio.png?raw=true)
 
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/AdrianTomin/portfolio/assets/115752624/d5f5aa36-b6df-4d5e-8872-fa5e6fdec679
 
 
 ## Authors
