@@ -43,5 +43,5 @@ Insert gif or link to demo
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-![Logo]()
+<img src="https://github.com/AdrianTomin/portfolio/blob/main/static/logo.png?raw=true" alt="Logo" style="width:100px;">
 
