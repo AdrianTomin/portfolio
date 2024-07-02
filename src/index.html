@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+		<meta charset="UTF-8">
+		<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Adrian Tomin's Portfolio</title>
+		<link rel="stylesheet" href="./style.css">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	</head>
+	<body>
+		<canvas class="threejs"></canvas>
+		<script type="module" src="index.ts"></script>
+		<div class="overlay"></div>
+		<h1 class="loading">Loading Experience... <span id="progressPercentage"></span>%</h1>
+		<button class="start">START</button>
+
+		<div id="myModal" class="modal">
+			<div class="modal-wrapper">
+				<div class="modal-content">
+					<h1 id="modalTitle">Modal Title</h1>
+					<p id="modalDescription">Modal Description</p>
+				</div>
+				<span class="close">Close</span>
+			</div>
+		</div>
+		<!-- WASD Controller -->
+		<div class="controls">
+			<div class="controller">
+				<button id="forward" class="control-button">↑</button>
+				<div class="controller-row">
+					<button id="left" class="control-button">←</button>
+					<button id="backward" class="control-button">↓</button>
+					<button id="right" class="control-button">→</button>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
