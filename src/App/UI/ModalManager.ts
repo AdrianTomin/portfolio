@@ -157,7 +157,7 @@ const projects: Project[] = [
 			'portfolio-pictures/about-me.png',
 			'portfolio-pictures/projects.png',
 		],
-		link: '',
+		link: 'https://github.com/AdrianTomin/portfolio',
 		techStack: [
 			{ name: 'TypeScript', logo: '/icons/ts-icon.svg' },
 			{ name: 'Vite', logo: '/icons/vite-icon.svg' },
